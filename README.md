@@ -1,4 +1,4 @@
-# Technical co-founder
+# Staff engineer
 
 I build products from zero to production and take responsibility for the whole system decision — from architecture and backend services to frontend, infrastructure, and production operations.
 
