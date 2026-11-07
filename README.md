@@ -1,4 +1,4 @@
-# Staff engineer
+# Principal engineer
 
 I build products from zero to production and take responsibility for the whole system decision — from architecture and backend services to frontend, infrastructure, and production operations.
 
@@ -17,10 +17,10 @@ I enjoy working on ambiguous problems where there isn't already a team or archit
 
 ## 💻 Tech I work with
 
-* 🐍 **Languages:** Python, Go, TypeScript, Objective-C, C++
+* 🐍 **Languages:** Go, Python, TypeScript, Objective-C, C++
 * ⚙️ **Backend:** FastAPI, chi, REST, SSE, Stripe
 * 🎨 **Frontend:** Next.js, React, Tailwind CSS
 * ☁️ **Cloud:** Terraform, Kubernetes, Google Cloud, Azure
-* 🗄️ **Data & Search:** MongoDB, Atlas Search, Firestore / Datastore, Pinecone
+* 🗄️ **Data & Search:** Spanner, MongoDB, Atlas Search, Firestore / Datastore, Pinecone
 * 🧠 **AI:** OpenAI, Anthropic Claude, Google Gemini, LangChain, agent systems, RAG
 * 🔧 **Ops:** GitHub Actions, Docker, OpenTelemetry
